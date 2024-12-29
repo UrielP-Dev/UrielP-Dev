@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a 24-year-old Software & Systems Engineer based in Metepec, Mexico. I thrive in backend development, tackling challenging projects, and optimizing system performance. I love collaborating with teams to bring innovative solutions to life. When I'm not coding, I’m probably hanging out with my cats 🐾 or exploring the latest tech trends.
+I’m a 22-year-old Software & Systems Engineer based in Metepec, Mexico. I thrive in backend development, tackling challenging projects, and optimizing system performance. I love collaborating with teams to bring innovative solutions to life. When I'm not coding, I’m probably hanging out with my cats 🐾 or exploring the latest tech trends.
 
 ---
 
